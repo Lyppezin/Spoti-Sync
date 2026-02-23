@@ -1,6 +1,6 @@
 {
   "client_id": "your_client_id",
-  "client_secret": "your_secret"",
+  "client_secret": "your_secret",
   "redirect_uri": "https://example.com/callback",
   "music_folder": "/storage/emulated/0/Music//",
   "playlist_name": "OFFLINE",
