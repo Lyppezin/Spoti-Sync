@@ -1,0 +1,9 @@
+{
+  "client_id": "02f30572667b4bf98360c9a60dc59921",
+  "client_secret": "e990485e0aaa49e28774af4bff179f58",
+  "redirect_uri": "https://example.com/callback",
+  "music_folder": "/storage/emulated/0/Music/SpotiFLAC/",
+  "playlist_name": "OFFLINE",
+  "temp_playlist_name": "Temp",
+  "min_similarity": 0.72
+}
